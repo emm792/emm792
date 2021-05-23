@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emm792
+- 👋 Hi, I’m Eidan
 - 👀 I’m interested in full stack engineering, machine learning and game development.
 - 📫 You can reach me on twitter at @emm792
 
