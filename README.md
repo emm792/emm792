@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eidan
 - 👀 I’m interested in full stack engineering, machine learning and game development.
-- 📫 You can reach me on twitter at @emm792
+- 🧑‍💻 Projects in development
 
 <!---
 emm792/emm792 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
